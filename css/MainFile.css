@@ -182,7 +182,7 @@ header .links ul li:not(:last-child) {
 /* start landing  */
 .landing {
     width: 100%;
-    background-image: url(files/mountain.img.jpg);
+    background-image: url(../files/mountain.img.jpg);
     background-size: cover;
     height: calc(100vh - 61px);
     position: relative;
